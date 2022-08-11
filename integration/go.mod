@@ -8,7 +8,7 @@ require (
 	github.com/FerretDB/FerretDB v0.0.0-00010101000000-000000000000
 	github.com/stretchr/testify v1.7.4
 	go.mongodb.org/mongo-driver v1.9.1
-	go.uber.org/zap v1.21.0
+	go.uber.org/zap v1.22.0
 	golang.org/x/exp v0.0.0-20220613132600-b0d781184e0d
 )
 
